@@ -2,15 +2,12 @@ package Socrative_05092023;
 
 public class C03_05092023 {
 
-
         int x = 1;
-
         static int y;
 
     C03_05092023(int i){
 
             x = x + i;
-
             y = y + i;
 
         }
@@ -25,7 +22,9 @@ public class C03_05092023 {
 
             System.out.println(obj2.x + ", " + obj2.y);
 
-        }
+            // 6, 5
+            // 8, 12
 
+        }
     }
 

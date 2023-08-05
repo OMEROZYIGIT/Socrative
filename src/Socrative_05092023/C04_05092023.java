@@ -4,7 +4,6 @@ public class C04_05092023 {
 
 
         int sayi;
-
         String isim = "Ali";
 
     C04_05092023(){
@@ -25,9 +24,9 @@ public class C04_05092023 {
 
         }
 
-        //artir(int sayi){
+        // artir(int sayi){
 
-            //isim++;
+            // isim++;
 
         }
 
